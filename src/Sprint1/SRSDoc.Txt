@@ -1,5 +1,4 @@
 Recieved User Story  by PO
 
-started Reviewing the  document in static Testing
-
+started Reviewing the  document in static Testing now
 
